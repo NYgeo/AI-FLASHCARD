@@ -2,7 +2,15 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-First, run the development server:
+First, replace the keys in .env_sample:
+Install the following packages
+
+
+```bash
+
+```
+
+Last, run the development server:
 Install the following packages
 
 
