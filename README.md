@@ -7,7 +7,14 @@ Install the following packages
 
 
 ```bash
+NEXT_PUBLIC_STRIPE_PUBLIC_KEY = ENTER_KEY
 
+STRIPE_SECRET_KEY = ENTER_KEY
+
+OPENAI_API_KEY =ENTER_KEY
+
+NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=ENTER_KEY
+CLERK_SECRET_KEY= ENTER_KEY
 ```
 
 Last, run the development server:
