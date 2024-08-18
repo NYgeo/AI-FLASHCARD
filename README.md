@@ -3,7 +3,24 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## Getting Started
 
 First, replace the keys in .env_sample:
-Install the following packages
+
+```bash
+NEXT_PUBLIC_STRIPE_PUBLIC_KEY = ENTER_KEY
+
+STRIPE_SECRET_KEY = ENTER_KEY
+
+OPENAI_API_KEY =ENTER_KEY
+
+NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=ENTER_KEY
+CLERK_SECRET_KEY= ENTER_KEY
+```
+
+Second, npm install dependencies
+
+```bash
+npm install firebase
+etc...
+```
 
 
 ```bash
